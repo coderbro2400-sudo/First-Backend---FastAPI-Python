@@ -1,0 +1,6 @@
+.env
+*.tmp
+*.db
+*.sql
+__pycache__
+
